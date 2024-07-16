@@ -13,7 +13,12 @@ Para fazer a alteração pode ser feita por octais:
   - 1 execução
   - 0 sem permissão
 
-Exemplo:  
+Exemplo:
+
+    ´´´
+    
+    ´´´
+    
 O Primeiro octal é a permissão do Dono do Arquivo  
 O Segundo octal é a permissão do GRUPO Dono do Arquivo  
 O Terceiro octal é a permissão dos Outros do Arquivo  
