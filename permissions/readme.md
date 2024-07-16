@@ -18,8 +18,8 @@ O Primeiro octal é a permissão do Dono do Arquivo
 O Segundo octal é a permissão do GRUPO Dono do Arquivo  
 O Terceiro octal é a permissão dos Outros do Arquivo  
 
-    ```bash
-      chmod 000 "file/path"
+    ```sh
+    chmod 000 "file/path"
     ```
 
 ### Permissões Especiais
