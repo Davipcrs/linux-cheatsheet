@@ -15,9 +15,9 @@ Para fazer a alteração pode ser feita por octais:
 
 Exemplo:
 
-    ´´´
-    
-    ´´´
+    ```bash
+    chmod 000 "path/to/file.txt"
+    ```
     
 O Primeiro octal é a permissão do Dono do Arquivo  
 O Segundo octal é a permissão do GRUPO Dono do Arquivo  
