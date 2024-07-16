@@ -18,8 +18,8 @@ O Primeiro octal é a permissão do Dono do Arquivo
 O Segundo octal é a permissão do GRUPO Dono do Arquivo  
 O Terceiro octal é a permissão dos Outros do Arquivo  
 
-    ```shellscript
-     chmod 000 "path/to/file"
+    ```
+    chmod 000 "path/to/file"
     ```
 
 ### Permissões Especiais
