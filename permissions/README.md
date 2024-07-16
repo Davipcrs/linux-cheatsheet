@@ -1,5 +1,7 @@
 # Permissões de acesso a arquivos no linux:
 Existem 3 permissões, usuário (Dono), grupo e outros.  
+
+### Alterar grupo e dono do arquivo
 ### Permissões Básicas
 
 Para fazer a alteração pode ser feita por octais:  
