@@ -1,5 +1,10 @@
 # Permissões de acesso a arquivos no linux:
 Existem 3 permissões, usuário (Dono), grupo e outros.  
+A verificação pode ser feita usando o comando
+
+```shellscript
+ls -lah
+```
 
 ### Alterar grupo e dono do arquivo
 Utilizar os comandos de chown e chgrp  
