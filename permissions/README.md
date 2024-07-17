@@ -2,6 +2,19 @@
 Existem 3 permissões, usuário (Dono), grupo e outros.  
 
 ### Alterar grupo e dono do arquivo
+Utilizar os comandos de chown e chgrp  
+Ambos tem um sintaxe parecida  
+
+Para alterar todos os arquivos de um diretório podemos utilizar a opção -R  
+Para visualizar todos os arquivos que tiveram permissões modificada podemos utilizar a opção -c
+
+Exemplo:  
+
+```shellscript
+chown -Rc Username "path/to/file.txt"
+chgrp -Rc Groupname "path/to/file.txt"
+```
+
 ### Permissões Básicas
 
 Para fazer a alteração pode ser feita por octais:  
