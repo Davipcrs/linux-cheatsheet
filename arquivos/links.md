@@ -11,8 +11,8 @@ Conforme o arquivo nginx.md (link) utilizamos links simbolicos para habilitar ar
 
 Exemplo:  
 
-´´´shellscript
+```shellscript
 ln -s arquivo-original atalho-novo
-´´´
+```
 
 ### Link Fisico (Hard Link)
